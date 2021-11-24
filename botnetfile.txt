@@ -1,0 +1,4 @@
+192.168.122.75:kali:K4L1VMP4SS
+192.168.122.13:sshuser:sshuser
+192.168.122.37:sshuser:sshuser
+192.168.122.125:debian:DEBIAN
